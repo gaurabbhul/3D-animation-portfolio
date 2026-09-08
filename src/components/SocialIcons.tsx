@@ -1,7 +1,4 @@
-import {
-  FaGithub,
-  FaLinkedinIn,
-} from "react-icons/fa6";
+import { FaGithub, FaLinkedinIn } from "react-icons/fa6";
 import "./styles/SocialIcons.css";
 import { TbNotes } from "react-icons/tb";
 import { useEffect } from "react";
@@ -68,7 +65,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.linkedin.com/in/gaurabbhul/"
+            href="https://www.linkedin.com/in/gaurab-bhul/"
             target="_blank"
             rel="noreferrer"
           >

@@ -90,8 +90,9 @@ const WhatIDo = () => {
               <h3>AI & AUTOMATION</h3>
               <h4>Workflow Intelligence for Organizations</h4>
               <p>
-                AI specialist helping organizations automate workflows—internal ops
-                and customer-facing—so teams ship faster with less manual work.
+                AI specialist helping organizations automate workflows internal
+                ops and customer-facing so teams ship faster with less manual
+                work.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
@@ -128,7 +129,7 @@ const WhatIDo = () => {
               <h4>Shipping AI in Production</h4>
               <p>
                 I build the systems behind it: APIs, data, voice/real-time, and
-                full-stack products—production-ready, not slide decks.
+                full-stack products production-ready, not slide decks.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">

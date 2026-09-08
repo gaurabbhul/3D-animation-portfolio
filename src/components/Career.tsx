@@ -21,7 +21,7 @@ const Career = () => {
               <h3>2024</h3>
             </div>
             <p>
-              Completed Full Stack Developer (MERN) training — built and deployed
+              Completed Full Stack Developer (MERN) training-built and deployed
               a live e-commerce platform with JWT authentication, role-based access
               control, admin dashboard, and a full product-to-cart-to-checkout flow.
             </p>
@@ -29,7 +29,7 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Hackathon — CertifyNow</h4>
+                <h4>Hackathon CertifyNow</h4>
                 <h5>2025</h5>
               </div>
               <h3>2025</h3>

@@ -16,16 +16,15 @@ const Contact = () => {
                 rel="noreferrer"
                 data-cursor="disable"
               >
-                Email — gaurabbhul@gmail.com
+                Email- gaurabbhul@gmail.com
               </a>
             </p>
             <h4>Education</h4>
             <p>
-              B.Sc. Information Technology, Padmashree College, Kathmandu — 2024–Present
+              B.Sc. Information Technology, Padmashree College, Kathmandu
+              2024 - Present
             </p>
-            <p>
-              +2 Science, United Academy, Lalitpur — 2021–2022
-            </p>
+            <p>+2 Science, United Academy, Lalitpur 2021 - 2022</p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
@@ -39,7 +38,7 @@ const Contact = () => {
               GitHub <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/gaurabbhul/"
+              href="https://www.linkedin.com/in/gaurab-bhul/"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
